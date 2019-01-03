@@ -35,4 +35,4 @@ Outlook.com에서 계정 생성 진행을 하면서 “Too Many Request” 메�
 9. Microsoft Azure 구독 생성이 완료되었습니다. 
 ![lab00-011](https://user-images.githubusercontent.com/46337910/50626916-577ddc80-0f74-11e9-84bb-5cc8a7139593.jpg)
 
-Microsoft Azure 포털의 주소는 http://portal.azure.com 입니다.
+10. Microsoft Azure 포털의 주소는 http://portal.azure.com 입니다.
