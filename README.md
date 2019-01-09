@@ -4,7 +4,7 @@
 Microsoft Azure for Enterprise Lab-fundamental
 
 이 자료는 Microsoft Azure Infra Fundamental 과정용 실습 자료입니다.<br>
-해당 실습 파일은 스킬서포트 실습환경에서만 열람할수 있도록 암호화되어 있습니다.
+해당 실습 파일은 SkillSupport 실습환경에서만 열람할수 있도록 암호화되어 있습니다.
 
 ![f-logo](https://user-images.githubusercontent.com/46337910/50868000-d0f05180-13f0-11e9-8307-de9d2c037088.jpg)
 
