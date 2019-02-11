@@ -3,10 +3,10 @@
 
 Microsoft Azure for Enterprise Lab-fundamental
 
-이 자료는 Microsoft Azure Infra Fundamental 과정용 실습 자료입니다.<br>
-해당 실습 파일은 SkillSupport 실습 환경에서만 열람 하실수 있습니다.
+이 자료는 Microsoft Azure Infra Fundamental 과정용 강의 교안과 실습 자료입니다.<br>
+해당 문서들은 SkillSupport 실습 환경에서만 열람 하실수 있습니다.
 
-우측 상단의 "Clone or download"를 클릭하면 PDF 파일을 다운로드 할 수 있습니다. 
+우측 상단의 "Clone or download"를 클릭하면 PDF 파일을 다운로드 하고 강의장 PC에서 열람할 수 있습니다. 
 
 ![f-logo](https://user-images.githubusercontent.com/46337910/50868299-2a0cb500-13f2-11e9-98ee-ad6b65d00af4.jpg)
 
