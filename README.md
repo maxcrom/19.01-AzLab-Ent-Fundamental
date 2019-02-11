@@ -11,4 +11,4 @@ Microsoft Azure for Enterprise Lab-fundamental
 ![f-logo](https://user-images.githubusercontent.com/46337910/50868299-2a0cb500-13f2-11e9-98ee-ad6b65d00af4.jpg)
 
 
-Last Updated : 2019.01.14
+Last Updated : 2019.02.12
